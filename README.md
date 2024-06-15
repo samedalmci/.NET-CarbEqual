@@ -28,4 +28,6 @@ Projeyi benimle birlikte hayata geçiren ekip arkadaşlarım:
 MELİK SAMED ALMACI
 Egemen ŞAHİN
 Berat Can KATANALP
+
+
 Emeği geçen herkese teşekkür ederim. Projemiz hakkında daha fazla bilgi almak ve destek olmak için bağlantı kurmaktan çekinmeyin. 💬
