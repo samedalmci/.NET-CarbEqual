@@ -1,0 +1,184 @@
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe.config
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\CarbEqual.pdb
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form1.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form2.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Properties.Resources.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.exe
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.pdb
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form4.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form5.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form6.resources
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CopyComplete
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe.config
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\CarbEqual.pdb
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form1.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form2.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form4.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form5.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form6.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Properties.Resources.resources
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CopyComplete
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.exe
+C:\Users\user\Desktop\CarbEqual\CarbEqual\obj\Debug\CarbEqual.pdb
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Login.db
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Login.db
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe.config
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.pdb
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Guna.UI2.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.AssemblyReference.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form1.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form2.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form4.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form5.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form6.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Properties.Resources.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.GenerateResource.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CoreCompileInputs.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CopyComplete
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.exe
+C:\Users\Berat Can\Desktop\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.pdb
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Login.db
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe.config
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.pdb
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Guna.UI2.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.AssemblyReference.cache
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form1.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form2.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form4.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form5.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form6.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Properties.Resources.resources
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.GenerateResource.cache
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CoreCompileInputs.cache
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CopyComplete
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.exe
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.pdb
+C:\Users\samed\Desktop\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form3.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Login.db
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe.config
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.exe
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\CarbEqual.pdb
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Guna.UI2.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Dapper.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Buffers.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Data.SQLite.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Memory.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.AssemblyReference.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form1.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form2.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form3.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form4.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form5.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Form6.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.Properties.Resources.resources
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.GenerateResource.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CoreCompileInputs.cache
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.csproj.CopyComplete
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.exe
+C:\Users\Berat Can\Desktop\GömülüSistemler\GömülüSistemler\GömülüSistemler\CarbEqual\CarbEqual\obj\Debug\CarbEqual.pdb
