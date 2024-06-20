@@ -17,11 +17,12 @@ Telefon kullanım sürelerini ve uygulamaların karbon ayak izini hesaplamak.
 
 ![CarbEqualWitheChatBot](https://github.com/samedalmci/CarbEqual/assets/172913150/3d210be7-5cde-4f22-ace7-d9b242bb055d)
 
-📌 Projenin Özel Yönleri:
-
-C# Kullanark telefonların uygulamalarda ürettiği karbon ayak izlernini bulma.
-JSON dosyası sayesinde kendi verilerini hızlı bir şekilde çekip kullanıcıya aktarma.
-Open AI ile Promt Engineer 
+📌 Projenin Bize Katkıları:
+C# kullanarak telefon uygulamalarının ürettiği karbon ayak izlerini tespit etmeyi.
+JSON dosyaları sayesinde verileri hızlıca çekip kullanıcıya aktarmayı 
+Windows Form uygulamaları geliştirmeyi
+SQLite ve SQL kullanarak veritabanı işlemleri yapma 
+OpenAI ile API kullanımı ve Prompt Engineering öğreniyorum.
 
 Projeyi benimle birlikte hayata geçiren ekip arkadaşlarım:
 
