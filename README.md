@@ -18,6 +18,7 @@ Telefon kullanım sürelerini ve uygulamaların karbon ayak izini hesaplamak.
 ![CarbEqualWitheChatBot](https://github.com/samedalmci/CarbEqual/assets/172913150/3d210be7-5cde-4f22-ace7-d9b242bb055d)
 
 📌 Projenin Bize Katkıları:
+
 C# kullanarak telefon uygulamalarının ürettiği karbon ayak izlerini tespit etmeyi.
 JSON dosyaları sayesinde verileri hızlıca çekip kullanıcıya aktarmayı 
 Windows Form uygulamaları geliştirmeyi
